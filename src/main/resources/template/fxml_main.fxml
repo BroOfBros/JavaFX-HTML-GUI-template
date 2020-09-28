@@ -3,10 +3,7 @@
 <?import java.lang.*?>
 <?import java.util.*?>
 <?import javafx.geometry.*?>
-<?import javafx.scene.*?>
-<?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
-<?import javafx.scene.text.*?>
 <?import javafx.scene.web.*?>
 
 <AnchorPane xmlns:fx="http://javafx.com/fxml/1"
