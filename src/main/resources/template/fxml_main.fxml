@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.web.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1"
+			fx:controller="template.FXMLMainController">
+	<padding>
+		<Insets top="5" bottom="5" left="5" right="5"/>
+	</padding>
+		
+	<WebView fx:id="browser"
+			 AnchorPane.topAnchor="0.0" AnchorPane.bottomAnchor="0.0" 
+			 AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"/>
+		
+</AnchorPane>
